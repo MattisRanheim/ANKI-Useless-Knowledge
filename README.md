@@ -92,9 +92,14 @@ vs. wide-release film years, etc.):
 
 ## License
 
-The build code is free to use and adapt. Card content is compiled from public
-factual sources for educational use; trademarks and quoted material belong to
-their respective owners.
+Licensed under [Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) — see
+[`LICENSE`](LICENSE). You're free to use, share, fork, and adapt everything here
+**with attribution, for non-commercial purposes**; commercial use is not
+permitted.
+
+Card content is compiled from public factual sources for educational use;
+trademarks and quoted material belong to their respective owners.
 
 ---
 
