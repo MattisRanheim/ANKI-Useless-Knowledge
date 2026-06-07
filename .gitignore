@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Large data catalogs — re-downloaded on first run (e.g. Hipparcos hip_main.dat)
+Resources/catalogs/
